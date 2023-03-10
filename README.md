@@ -1,3 +1,9 @@
+#Share-A-Fact-App
+
+Share A Fact allows the user to submit a fact about different subjects such as science, health, finance, technology etc. togheter with a source link.The backend features are provided by Supabase.
+
+![screenshot](./public/s4.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
