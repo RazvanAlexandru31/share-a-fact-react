@@ -1,4 +1,4 @@
-#Share-A-Fact-App
+# Share-A-Fact-App
 
 Share A Fact allows the user to submit a fact about different subjects such as science, health, finance, technology etc. togheter with a source link.The backend features are provided by Supabase.
 
