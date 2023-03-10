@@ -4,7 +4,7 @@ Share A Fact allows the user to submit a fact about different subjects such as s
 
 ![screenshot](./public/s4.png)
 
-#[DEMO](https://sharingfacts.netlify.app/)
+## [DEMO](https://sharingfacts.netlify.app/)
 
 # Getting Started with Create React App
 
